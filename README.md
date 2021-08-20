@@ -1,4 +1,5 @@
 # Open-Source-Programs-and-Internships
+<img align="center" src="open-source.png">
 Apply to these amazing open source programs and internships which provide great exposure and stipends.
 
 | Sr. No.      | Open Source Programs / Internships   | Link   | Description
