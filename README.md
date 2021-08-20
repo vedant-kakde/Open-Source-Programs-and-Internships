@@ -1,4 +1,4 @@
-# Open Source Programs and Internships
+# [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)] Programs and Internships
 <p align="center"><img src="open-source.png" height="250px"></p>
 Apply to these amazing open source programs and internships which provide great exposure and stipends.
 
